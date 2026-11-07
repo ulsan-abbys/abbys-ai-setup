@@ -1,4 +1,4 @@
-# avis-ai-setup
+# abbys-ai-setup
 
 내 PC에 AI 일꾼 자리 만들기: Claude Code·codex 공통 로컬 세팅.
 
@@ -18,8 +18,8 @@ PowerShell에서 진행합니다. `<내 폴더>`는 실제 프로젝트 경로�
 (2) 저장소를 내려받습니다.
 
 ```powershell
-git clone https://github.com/ulsan-abbys/avis-ai-setup
-Set-Location .\avis-ai-setup
+git clone https://github.com/ulsan-abbys/abbys-ai-setup
+Set-Location .\abbys-ai-setup
 $setup = (Get-Location).Path
 ```
 
