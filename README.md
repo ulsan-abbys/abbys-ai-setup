@@ -18,7 +18,7 @@ PowerShell에서 진행합니다. `<내 폴더>`는 실제 프로젝트 경로�
 (2) 저장소를 내려받습니다.
 
 ```powershell
-git clone https://github.com/ulsan-avis/avis-ai-setup
+git clone https://github.com/ulsan-abbys/avis-ai-setup
 Set-Location .\avis-ai-setup
 $setup = (Get-Location).Path
 ```
